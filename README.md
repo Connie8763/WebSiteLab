@@ -11,7 +11,6 @@
 <img src="image/migrate.jpg"><br>
 2. 接著執行 python manage.py runserver 開啟server
 <img src="image/runserver.jpg"><br>
-<br>
 3. 完成後開啟瀏覽器·並輸入 http://127.0.0.1:8000/login 即可進入 “登入介面”，如果登入失敗超過5次，等待30秒後才能繼續登入（第六次等待30^2秒）
 <img src="image/login.jpg"><br>
 4. 如要註冊，點擊頁面中超連結
